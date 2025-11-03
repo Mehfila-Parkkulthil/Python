@@ -1,5 +1,5 @@
 #Question 2
-# Create a program to calculate
+# Create a program to calculate sum
 
 print(" \n ADDITIION CALCULATOR  ")
 print("--------------")
