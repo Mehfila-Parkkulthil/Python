@@ -9,4 +9,4 @@ first_number =int (input())
 print("Enter your second number")
 second_number = int (input())
 difference = first_number - second_number
-print("The sum of your 2 number is: " , difference)
+print("The difference of your 2 number are: " , difference)
