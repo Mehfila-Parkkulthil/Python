@@ -1,7 +1,12 @@
 #Question 19
 #conditional statements
 
-light = "green"
+print("Please enter color: green  or red or yellow")
+light=input().strip().lower()
+#works for all cases
+
+#light = input().lower() , also if condn has to be lowercase
+#light =input().upper(), also if condition has to be in uppercase
 if(light=="green"):
   print("Green signal")
 elif(light=="yellow"):
