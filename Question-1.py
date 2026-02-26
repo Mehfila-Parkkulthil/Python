@@ -1,5 +1,5 @@
 # Question 1
-#Print Hello world and some numbers
+#Print Hello world and arithmetic operations
 
 print("Hello world")
 print(23)
