@@ -7,3 +7,4 @@ print(marks[2])
 #lists are mutable
 marks[0]=21
 print(marks)
+print(len(marks))
