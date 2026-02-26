@@ -1,5 +1,5 @@
 #Question 34
-#Dictionaries and sets in python
+#Dictionaries 
 
 dictionary ={
   "name" : "Mehfila Parkkulthil",
