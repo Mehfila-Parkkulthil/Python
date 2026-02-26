@@ -5,6 +5,7 @@ print(" \n ADDITIION CALCULATOR  ")
 print("--------------")
 print("Hi , Lets calculate!! \n")
 print("Enter your first number :")
+#taking input only integers
 first_number =int (input())
 print("Enter your second number")
 second_number = int (input())
